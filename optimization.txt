@@ -1,0 +1,8 @@
+added something for conflict 1 i want to keep the changes from main
+
+
+
+added something for conflict 1 i want to keep the changes from other
+
+
+added something for conflict 1 i want to keep the changes from both
