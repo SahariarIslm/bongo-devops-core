@@ -7,3 +7,4 @@ with urllib.request.urlopen(req) as response:
     
 print('nothing 1')
 print('nothing 2')
+print('nothing 3')
